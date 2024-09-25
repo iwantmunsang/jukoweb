@@ -1,0 +1,11 @@
+{
+  "manifest_version": 3,
+  "name": "쥬코코님 망겜해요",
+  "version": "1.0.0",
+  "description": "ㅁㄱㅇㅇ",
+  "action": {
+    "default_popup": "index.html",
+    "default_icon": "icon.png"
+  },
+  "permissions": []
+}
